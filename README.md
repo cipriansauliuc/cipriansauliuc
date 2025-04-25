@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I’m Ciprian!
 
-<!--
-**cipriansauliuc/cipriansauliuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub! I'm especially into:
 
-Here are some ideas to get you started:
+- 🧱 Building interactive web apps with **Angular** & **Babylon.js**
+- 🧗‍♂️ Learning, improving, and occasionally hitting bugs with a stick
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 What I’m working on
+
+Right now, I’m focused on:
+- Expanding my **3D visualization** skills
+- Staying curious and **learning a bit more every day**
+
+## ✨ Fun facts
+
+- I was born in **Romania** 🇷🇴, but moved to **Spain** 🇪🇸 as a kid and spent most of my life there — now I call **Germany** 🇩🇪 home
+- I enjoy movie soundtracks while coding (🎧 *Gladiator* is a favorite)
+
+## 📫 Let's connect!
+
+If you're working on something exciting, or just want to say hi — don’t hesitate!
+
+- 💼 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/cipriansauliuc/) (placeholder)
+
+Thanks for stopping by! 🚀
