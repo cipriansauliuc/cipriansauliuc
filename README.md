@@ -16,10 +16,4 @@ Right now, I’m focused on:
 - I was born in **Romania** 🇷🇴, but moved to **Spain** 🇪🇸 as a kid and spent most of my life there — now I call **Germany** 🇩🇪 home
 - I enjoy movie soundtracks while coding (🎧 *Gladiator* is a favorite)
 
-## 📫 Let's connect!
-
-If you're working on something exciting, or just want to say hi — don’t hesitate!
-
-- 💼 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/cipriansauliuc/) (placeholder)
-
 Thanks for stopping by! 🚀
